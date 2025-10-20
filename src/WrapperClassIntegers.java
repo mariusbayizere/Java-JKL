@@ -1,4 +1,4 @@
-public class Tests {
+public class WrapperClassIntegers {
 
     //wrapper class
     /**
